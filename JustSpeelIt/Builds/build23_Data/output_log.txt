@@ -1,0 +1,126 @@
+Mono path[0] = 'D:/UnityWork/JustSpeelIt/Builds/build23_Data/Managed'
+Mono path[1] = 'D:/UnityWork/JustSpeelIt/Builds/build23_Data/Mono'
+Mono config path = 'D:/UnityWork/JustSpeelIt/Builds/build23_Data/Mono/etc'
+PlayerConnection initialized from D:/UnityWork/JustSpeelIt/Builds/build23_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55115
+Multi-casting "[IP] 144.122.124.53 [Port] 55115 [Flags] 2 [Guid] 636606641 [EditorId] 193660787 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-F2MBS38) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55115]
+PlayerConnection already initialized - listening to [0.0.0.0:55115]
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.20.16.4550
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.138 seconds
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\UnityWork\JustSpeelIt\Builds\build23_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.448343 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.122309 ms
+System memory in use before: 16.0 MB.
+System memory in use after: 16.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 263.
+Total: 0.374883 ms (FindLiveObjects: 0.040113 ms CreateObjectMapping: 0.036467 ms MarkObjects: 0.277515 ms  DeleteObjects: 0.019692 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.050256 ms
+System memory in use before: 16.0 MB.
+System memory in use after: 16.0 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 273.
+Total: 0.366495 ms (FindLiveObjects: 0.028079 ms CreateObjectMapping: 0.030997 ms MarkObjects: 0.289185 ms  DeleteObjects: 0.016774 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.859897 ms
+System memory in use before: 16.0 MB.
+System memory in use after: 16.0 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.436513 ms (FindLiveObjects: 0.044125 ms CreateObjectMapping: 0.040478 ms MarkObjects: 0.319453 ms  DeleteObjects: 0.030632 ms)
+
+The referenced script on this Behaviour (Game Object 'Trap (1)') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'playerPlatform4 (17)') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Trap') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'playerPlatform4 (17)') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.578006 ms
+System memory in use before: 17.0 MB.
+System memory in use after: 16.8 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 871.
+Total: 1.027282 ms (FindLiveObjects: 0.080227 ms CreateObjectMapping: 0.063088 ms MarkObjects: 0.862815 ms  DeleteObjects: 0.019692 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.376935 ms
+System memory in use before: 16.5 MB.
+System memory in use after: 16.4 MB.
+
+Unloading 107 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 1.032023 ms (FindLiveObjects: 0.055794 ms CreateObjectMapping: 0.048866 ms MarkObjects: 0.526587 ms  DeleteObjects: 0.399316 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.012695 ms
+System memory in use before: 16.3 MB.
+System memory in use after: 16.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 292.
+Total: 0.650940 ms (FindLiveObjects: 0.043031 ms CreateObjectMapping: 0.041937 ms MarkObjects: 0.536068 ms  DeleteObjects: 0.028444 ms)
+
+The referenced script on this Behaviour (Game Object 'Trap (1)') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'playerPlatform4 (17)') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Trap') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'playerPlatform4 (17)') is missing!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/Mono/MonoBehaviour.cpp Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.861721 ms
+System memory in use before: 17.1 MB.
+System memory in use after: 16.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 898.
+Total: 1.510473 ms (FindLiveObjects: 0.170302 ms CreateObjectMapping: 0.076581 ms MarkObjects: 1.235875 ms  DeleteObjects: 0.026621 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 27f8 -> priority: 1 
+  Thread -> id: 14ec -> priority: 1 

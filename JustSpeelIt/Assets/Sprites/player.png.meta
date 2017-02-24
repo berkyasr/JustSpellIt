@@ -1,0 +1,4056 @@
+fileFormatVersion: 2
+guid: e673f0fc1353cb94280d16110e1e0284
+timeCreated: 1470380913
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_0
+    21300002: player_1
+    21300004: player_2
+    21300006: player_3
+    21300008: player_4
+    21300010: player_5
+    21300012: player_6
+    21300014: player_7
+    21300016: player_8
+    21300018: player_9
+    21300020: player_10
+    21300022: player_11
+    21300024: player_12
+    21300026: player_13
+    21300028: player_14
+    21300030: player_15
+    21300032: player_16
+    21300034: player_17
+    21300036: player_18
+    21300038: player_19
+    21300040: player_20
+    21300042: player_21
+    21300044: player_22
+    21300046: player_23
+    21300048: player_24
+    21300050: player_25
+    21300052: player_26
+    21300054: player_27
+    21300056: player_28
+    21300058: player_29
+    21300060: player_30
+    21300062: player_31
+    21300064: player_32
+    21300066: player_33
+    21300068: player_34
+    21300070: player_35
+    21300072: player_36
+    21300074: player_37
+    21300076: player_38
+    21300078: player_39
+    21300080: player_40
+    21300082: player_41
+    21300084: player_42
+    21300086: player_43
+    21300088: player_44
+    21300090: player_45
+    21300092: player_46
+    21300094: player_47
+    21300096: player_48
+    21300098: player_49
+    21300100: player_50
+    21300102: player_51
+    21300104: player_52
+    21300106: player_53
+    21300108: player_54
+    21300110: player_55
+    21300112: player_56
+    21300114: player_57
+    21300116: player_58
+    21300118: player_59
+    21300120: player_60
+    21300122: player_61
+    21300124: player_62
+    21300126: player_63
+    21300128: player_64
+    21300130: player_65
+    21300132: player_66
+    21300134: player_67
+    21300136: player_68
+    21300138: player_fade_1
+    21300140: player_70
+    21300142: player_71
+    21300144: player_72
+    21300146: player_73
+    21300148: player_74
+    21300150: player_75
+    21300152: player_76
+    21300154: player_77
+    21300156: player_78
+    21300158: player_79
+    21300160: player_80
+    21300162: player_81
+    21300164: player_82
+    21300166: player_83
+    21300168: player_84
+    21300170: player_85
+    21300172: player_86
+    21300174: player_87
+    21300176: player_88
+    21300178: player_89
+    21300180: player_90
+    21300182: player_91
+    21300184: player_92
+    21300186: player_93
+    21300188: player_94
+    21300190: player_95
+    21300192: player_96
+    21300194: player_97
+    21300196: player_98
+    21300198: player_99
+    21300200: player_100
+    21300202: player_101
+    21300204: player_102
+    21300206: player_103
+    21300208: player_104
+    21300210: player_105
+    21300212: player_106
+    21300214: player_107
+    21300216: player_108
+    21300218: player_109
+    21300220: player_110
+    21300222: player_111
+    21300224: player_112
+    21300226: player_113
+    21300228: player_114
+    21300230: player_115
+    21300232: player_116
+    21300234: player_117
+    21300236: player_118
+    21300238: player_119
+    21300240: player_120
+    21300242: player_121
+    21300244: player_122
+    21300246: player_123
+    21300248: player_124
+    21300250: player_125
+    21300252: player_126
+    21300254: player_127
+    21300256: player_128
+    21300258: player_129
+    21300260: player_130
+    21300262: player_131
+    21300264: player_132
+    21300266: player_133
+    21300268: player_134
+    21300270: player_135
+    21300272: player_136
+    21300274: player_137
+    21300276: player_138
+    21300278: player_139
+    21300280: player_140
+    21300282: player_141
+    21300284: player_142
+    21300286: player_143
+    21300288: player_144
+    21300290: player_145
+    21300292: player_146
+    21300294: player_147
+    21300296: player_148
+    21300298: player_149
+    21300300: player_150
+    21300302: player_151
+    21300304: player_152
+    21300306: player_153
+    21300308: player_154
+    21300310: player_155
+    21300312: player_156
+    21300314: player_157
+    21300316: player_158
+    21300318: player_159
+    21300320: player_160
+    21300322: player_161
+    21300324: player_162
+    21300326: player_163
+    21300328: player_164
+    21300330: player_165
+    21300332: player_166
+    21300334: player_167
+    21300336: player_168
+    21300338: player_169
+    21300340: player_170
+    21300342: player_171
+    21300344: player_172
+    21300346: player_173
+    21300348: player_174
+    21300350: player_175
+    21300352: player_176
+    21300354: player_177
+    21300356: player_178
+    21300358: player_179
+    21300360: player_180
+    21300362: player_181
+    21300364: player_182
+    21300366: player_183
+    21300368: player_184
+    21300370: player_185
+    21300372: player_186
+    21300374: player_187
+    21300376: player_188
+    21300378: player_189
+    21300380: player_190
+    21300382: player_191
+    21300384: player_192
+    21300386: player_193
+    21300388: player_194
+    21300390: player_195
+    21300392: player_196
+    21300394: player_197
+    21300396: player_198
+    21300398: player_199
+    21300400: player_200
+    21300402: player_201
+    21300404: player_202
+    21300406: player_203
+    21300408: player_204
+    21300410: player_205
+    21300412: player_206
+    21300414: player_207
+    21300416: player_208
+    21300418: player_209
+    21300420: player_210
+    21300422: player_211
+    21300424: player_212
+    21300426: player_213
+    21300428: player_214
+    21300430: player_215
+    21300432: player_216
+    21300434: player_217
+    21300436: player_218
+    21300438: player_219
+    21300440: player_220
+    21300442: player_221
+    21300444: player_222
+    21300446: player_223
+    21300448: player_224
+    21300450: player_225
+    21300452: player_226
+    21300454: player_227
+    21300456: player_228
+    21300458: player_229
+    21300460: player_230
+    21300462: player_231
+    21300464: player_232
+    21300466: player_233
+    21300468: player_234
+    21300470: player_235
+    21300472: player_236
+    21300474: player_237
+    21300476: player_238
+    21300478: player_239
+    21300480: player_240
+    21300482: player_241
+    21300484: player_242
+    21300486: player_243
+    21300488: player_244
+    21300490: player_245
+    21300492: player_246
+    21300494: player_247
+    21300496: player_248
+    21300498: player_249
+    21300500: player_250
+    21300502: player_251
+    21300504: player_252
+    21300506: player_253
+    21300508: player_254
+    21300510: player_255
+    21300512: player_256
+    21300514: player_257
+    21300516: player_fade_2
+    21300518: player_fade_3
+    21300520: player_fade_4
+    21300522: player_fade_5
+    21300524: player_fade_0
+    21300526: empty_1
+    21300528: empty_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 701
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 701
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 701
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 711
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 711
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 711
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 711
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 711
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 364
+        width: 539
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -111.5, y: 188.5}
+        - {x: -269.5, y: 179.5}
+        - {x: -269.5, y: 48.5}
+        - {x: -99.5, y: -188.5}
+        - {x: 269.5, y: -188.5}
+        - {x: 269.5, y: 188.5}
+      - - {x: -22.5, y: 162.5}
+        - {x: 219.5, y: -45.5}
+        - {x: 216.5, y: -48.5}
+        - {x: 217.5, y: -49.5}
+        - {x: 214.5, y: -46.5}
+        - {x: 211.5, y: -46.5}
+        - {x: 198.5, y: -47.5}
+        - {x: 190.5, y: -59.5}
+        - {x: 197.5, y: -63.5}
+        - {x: 203.5, y: -62.5}
+        - {x: 208.5, y: -58.5}
+        - {x: 207.5, y: -57.5}
+        - {x: 204.5, y: -60.5}
+        - {x: 204.5, y: -62.5}
+        - {x: 206.5, y: -66.5}
+        - {x: 222.5, y: -68.5}
+        - {x: 227.5, y: -68.5}
+        - {x: 230.5, y: -65.5}
+        - {x: 229.5, y: -65.5}
+        - {x: 230.5, y: -66.5}
+        - {x: 237.5, y: -76.5}
+        - {x: -93.5, y: -184.5}
+      - - {x: 180.5, y: -102.5}
+        - {x: 141.5, y: -102.5}
+        - {x: 135.5, y: -104.5}
+        - {x: 135.5, y: -153.5}
+        - {x: 175.5, y: -153.5}
+        - {x: 184.5, y: -149.5}
+        - {x: 185.5, y: -144.5}
+        - {x: 185.5, y: -105.5}
+      - - {x: 111.5, y: -99.5}
+        - {x: 72.5, y: -99.5}
+        - {x: 66.5, y: -101.5}
+        - {x: 66.5, y: -150.5}
+        - {x: 106.5, y: -150.5}
+        - {x: 115.5, y: -146.5}
+        - {x: 116.5, y: -141.5}
+        - {x: 116.5, y: -102.5}
+      - - {x: 191.5, y: -111.5}
+        - {x: 191.5, y: -135.5}
+        - {x: 193.5, y: -145.5}
+        - {x: 218.5, y: -145.5}
+        - {x: 226.5, y: -143.5}
+        - {x: 226.5, y: -120.5}
+        - {x: 221.5, y: -111.5}
+      - - {x: 18.5, y: -108.5}
+        - {x: 18.5, y: -132.5}
+        - {x: 20.5, y: -142.5}
+        - {x: 45.5, y: -142.5}
+        - {x: 53.5, y: -140.5}
+        - {x: 53.5, y: -117.5}
+        - {x: 48.5, y: -108.5}
+      - - {x: 236.5, y: -116.5}
+        - {x: 230.5, y: -118.5}
+        - {x: 230.5, y: -129.5}
+        - {x: 235.5, y: -136.5}
+        - {x: 248.5, y: -136.5}
+        - {x: 250.5, y: -131.5}
+        - {x: 250.5, y: -116.5}
+      - - {x: 9.5, y: -115.5}
+        - {x: -2.5, y: -115.5}
+        - {x: -8.5, y: -117.5}
+        - {x: -8.5, y: -128.5}
+        - {x: -3.5, y: -135.5}
+        - {x: 6.5, y: -135.5}
+        - {x: 11.5, y: -130.5}
+        - {x: 11.5, y: -123.5}
+        - {x: 9.5, y: -116.5}
+      - - {x: -269.5, y: -80.5}
+        - {x: -269.5, y: -118.5}
+        - {x: -249.5, y: -118.5}
+        - {x: -249.5, y: -86.5}
+        - {x: -257.5, y: -81.5}
+      - - {x: -232.5, y: -97.5}
+        - {x: -236.5, y: -100.5}
+        - {x: -236.5, y: -107.5}
+        - {x: -235.5, y: -110.5}
+        - {x: -202.5, y: -110.5}
+        - {x: -202.5, y: -101.5}
+        - {x: -203.5, y: -97.5}
+      - - {x: -186.5, y: -97.5}
+        - {x: -194.5, y: -98.5}
+        - {x: -196.5, y: -101.5}
+        - {x: -196.5, y: -110.5}
+        - {x: -146.5, y: -110.5}
+        - {x: -146.5, y: -99.5}
+        - {x: -150.5, y: -97.5}
+      - - {x: -1.5, y: -25.5}
+        - {x: -1.5, y: -84.5}
+        - {x: 16.5, y: -84.5}
+        - {x: 52.5, y: -68.5}
+        - {x: 52.5, y: -47.5}
+        - {x: 27.5, y: -25.5}
+      - - {x: -32.5, y: -33.5}
+        - {x: -38.5, y: -30.5}
+        - {x: -43.5, y: -30.5}
+        - {x: -45.5, y: -34.5}
+        - {x: -45.5, y: -76.5}
+        - {x: -40.5, y: -79.5}
+        - {x: -36.5, y: -79.5}
+        - {x: -13.5, y: -57.5}
+        - {x: -13.5, y: -53.5}
+        - {x: -17.5, y: -50.5}
+      - - {x: 114.5, y: -41.5}
+        - {x: 90.5, y: -42.5}
+        - {x: 84.5, y: -48.5}
+        - {x: 85.5, y: -46.5}
+        - {x: 86.5, y: -43.5}
+        - {x: 79.5, y: -34.5}
+        - {x: 76.5, y: -36.5}
+        - {x: 76.5, y: -42.5}
+        - {x: 76.5, y: -40.5}
+        - {x: 73.5, y: -34.5}
+        - {x: 70.5, y: -30.5}
+        - {x: 67.5, y: -30.5}
+        - {x: 64.5, y: -35.5}
+        - {x: 64.5, y: -75.5}
+        - {x: 68.5, y: -78.5}
+        - {x: 72.5, y: -78.5}
+        - {x: 115.5, y: -68.5}
+        - {x: 134.5, y: -58.5}
+        - {x: 134.5, y: -50.5}
+      - - {x: -73.5, y: -39.5}
+        - {x: -75.5, y: -43.5}
+        - {x: -75.5, y: -69.5}
+        - {x: -72.5, y: -70.5}
+        - {x: -68.5, y: -70.5}
+        - {x: -59.5, y: -62.5}
+        - {x: -59.5, y: -49.5}
+        - {x: -64.5, y: -39.5}
+      - - {x: 186.5, y: -58.5}
+        - {x: 186.5, y: -53.5}
+        - {x: 183.5, y: -49.5}
+        - {x: 167.5, y: -49.5}
+        - {x: 166.5, y: -53.5}
+        - {x: 169.5, y: -60.5}
+        - {x: 172.5, y: -60.5}
+        - {x: 174.5, y: -58.5}
+        - {x: 176.5, y: -60.5}
+        - {x: 184.5, y: -60.5}
+      - - {x: 159.5, y: -56.5}
+        - {x: 160.5, y: -59.5}
+        - {x: 163.5, y: -59.5}
+        - {x: 165.5, y: -57.5}
+        - {x: 164.5, y: -54.5}
+        - {x: 161.5, y: -54.5}
+      - - {x: 149.5, y: -50.5}
+        - {x: 149.5, y: -56.5}
+        - {x: 151.5, y: -58.5}
+        - {x: 158.5, y: -58.5}
+        - {x: 160.5, y: -54.5}
+        - {x: 160.5, y: -50.5}
+      - - {x: 188.5, y: -48.5}
+        - {x: 186.5, y: -52.5}
+        - {x: 186.5, y: -57.5}
+        - {x: 188.5, y: -58.5}
+        - {x: 192.5, y: -57.5}
+        - {x: 194.5, y: -51.5}
+        - {x: 194.5, y: -49.5}
+        - {x: 192.5, y: -48.5}
+      - - {x: 161.5, y: -52.5}
+        - {x: 163.5, y: -54.5}
+        - {x: 166.5, y: -53.5}
+        - {x: 166.5, y: -50.5}
+        - {x: 164.5, y: -48.5}
+        - {x: 161.5, y: -49.5}
+      - - {x: 196.5, y: -51.5}
+        - {x: 199.5, y: -50.5}
+        - {x: 199.5, y: -47.5}
+        - {x: 196.5, y: -46.5}
+        - {x: 194.5, y: -48.5}
+      - - {x: -258.5, y: 19.5}
+        - {x: -269.5, y: 19.5}
+        - {x: -269.5, y: -19.5}
+        - {x: -251.5, y: -19.5}
+        - {x: -247.5, y: -17.5}
+        - {x: -245.5, y: -7.5}
+        - {x: -245.5, y: 14.5}
+      - - {x: -231.5, y: 19.5}
+        - {x: -233.5, y: 13.5}
+        - {x: -233.5, y: 2.5}
+        - {x: -224.5, y: -19.5}
+        - {x: -199.5, y: -19.5}
+        - {x: -198.5, y: -16.5}
+        - {x: -198.5, y: 14.5}
+        - {x: -206.5, y: 19.5}
+      - - {x: -191.5, y: 1.5}
+        - {x: -191.5, y: -11.5}
+        - {x: -189.5, y: -12.5}
+        - {x: -159.5, y: -12.5}
+        - {x: -157.5, y: -7.5}
+        - {x: -157.5, y: 1.5}
+      - - {x: -105.5, y: 0.5}
+        - {x: -140.5, y: 0.5}
+        - {x: -148.5, y: -1.5}
+        - {x: -150.5, y: -3.5}
+        - {x: -151.5, y: -7.5}
+        - {x: -151.5, y: -10.5}
+        - {x: -148.5, y: -12.5}
+        - {x: -102.5, y: -12.5}
+        - {x: -101.5, y: -10.5}
+        - {x: -101.5, y: -2.5}
+      - - {x: 255.5, y: -12.5}
+        - {x: 255.5, y: 39.5}
+        - {x: 36.5, y: 39.5}
+        - {x: 36.5, y: -12.5}
+      - - {x: -176.5, y: 81.5}
+        - {x: -178.5, y: 77.5}
+        - {x: -178.5, y: 66.5}
+        - {x: -177.5, y: 59.5}
+        - {x: -176.5, y: 58.5}
+        - {x: -158.5, y: 58.5}
+        - {x: -158.5, y: 77.5}
+        - {x: -162.5, y: 81.5}
+      - - {x: 194.5, y: 63.5}
+        - {x: 195.5, y: 58.5}
+        - {x: 222.5, y: 58.5}
+        - {x: 222.5, y: 86.5}
+        - {x: 202.5, y: 86.5}
+        - {x: 194.5, y: 85.5}
+      - - {x: 224.5, y: 58.5}
+        - {x: 247.5, y: 58.5}
+        - {x: 250.5, y: 60.5}
+        - {x: 250.5, y: 86.5}
+        - {x: 222.5, y: 86.5}
+        - {x: 222.5, y: 66.5}
+      - - {x: -236.5, y: 82.5}
+        - {x: -236.5, y: 59.5}
+        - {x: -221.5, y: 59.5}
+        - {x: -216.5, y: 60.5}
+        - {x: -216.5, y: 82.5}
+      - - {x: -211.5, y: 82.5}
+        - {x: -215.5, y: 77.5}
+        - {x: -215.5, y: 72.5}
+        - {x: -210.5, y: 59.5}
+        - {x: -204.5, y: 59.5}
+        - {x: -200.5, y: 61.5}
+        - {x: -200.5, y: 79.5}
+        - {x: -207.5, y: 82.5}
+      - - {x: -190.5, y: 82.5}
+        - {x: -194.5, y: 79.5}
+        - {x: -194.5, y: 59.5}
+        - {x: -181.5, y: 59.5}
+        - {x: -179.5, y: 64.5}
+        - {x: -179.5, y: 75.5}
+        - {x: -184.5, y: 82.5}
+      - - {x: 144.5, y: 85.5}
+        - {x: 143.5, y: 84.5}
+        - {x: 143.5, y: 64.5}
+        - {x: 147.5, y: 59.5}
+        - {x: 192.5, y: 59.5}
+        - {x: 194.5, y: 60.5}
+        - {x: 194.5, y: 84.5}
+        - {x: 190.5, y: 85.5}
+      - - {x: 39.5, y: 80.5}
+        - {x: 26.5, y: 80.5}
+        - {x: 24.5, y: 75.5}
+        - {x: 24.5, y: 63.5}
+        - {x: 28.5, y: 60.5}
+        - {x: 37.5, y: 60.5}
+        - {x: 40.5, y: 61.5}
+        - {x: 43.5, y: 64.5}
+        - {x: 44.5, y: 72.5}
+        - {x: 44.5, y: 74.5}
+      - - {x: 63.5, y: 79.5}
+        - {x: 55.5, y: 80.5}
+        - {x: 53.5, y: 80.5}
+        - {x: 47.5, y: 75.5}
+        - {x: 47.5, y: 62.5}
+        - {x: 52.5, y: 60.5}
+        - {x: 64.5, y: 60.5}
+        - {x: 67.5, y: 64.5}
+        - {x: 67.5, y: 73.5}
+        - {x: 66.5, y: 76.5}
+      - - {x: 77.5, y: 80.5}
+        - {x: 72.5, y: 76.5}
+        - {x: 72.5, y: 66.5}
+        - {x: 77.5, y: 60.5}
+        - {x: 88.5, y: 60.5}
+        - {x: 92.5, y: 63.5}
+        - {x: 92.5, y: 75.5}
+        - {x: 90.5, y: 80.5}
+      - - {x: 114.5, y: 80.5}
+        - {x: 102.5, y: 80.5}
+        - {x: 97.5, y: 78.5}
+        - {x: 97.5, y: 65.5}
+        - {x: 101.5, y: 60.5}
+        - {x: 111.5, y: 60.5}
+        - {x: 117.5, y: 65.5}
+        - {x: 117.5, y: 76.5}
+      - - {x: -120.5, y: 109.5}
+        - {x: -129.5, y: 99.5}
+        - {x: -129.5, y: 77.5}
+        - {x: -127.5, y: 68.5}
+        - {x: -108.5, y: 68.5}
+        - {x: -105.5, y: 73.5}
+        - {x: -105.5, y: 96.5}
+        - {x: -112.5, y: 109.5}
+      - - {x: -216.5, y: 107.5}
+        - {x: -218.5, y: 103.5}
+        - {x: -218.5, y: 93.5}
+        - {x: -217.5, y: 87.5}
+        - {x: -216.5, y: 84.5}
+        - {x: -202.5, y: 84.5}
+        - {x: -198.5, y: 86.5}
+        - {x: -198.5, y: 103.5}
+        - {x: -202.5, y: 107.5}
+      - - {x: -196.5, y: 108.5}
+        - {x: -198.5, y: 105.5}
+        - {x: -198.5, y: 93.5}
+        - {x: -197.5, y: 88.5}
+        - {x: -193.5, y: 85.5}
+        - {x: -187.5, y: 85.5}
+        - {x: -183.5, y: 87.5}
+        - {x: -183.5, y: 106.5}
+        - {x: -189.5, y: 108.5}
+      - - {x: -169.5, y: 96.5}
+        - {x: -178.5, y: 90.5}
+        - {x: -178.5, y: 89.5}
+        - {x: -177.5, y: 86.5}
+        - {x: -172.5, y: 85.5}
+        - {x: -166.5, y: 85.5}
+        - {x: -161.5, y: 88.5}
+        - {x: -163.5, y: 95.5}
+        - {x: -165.5, y: 97.5}
+      - - {x: -155.5, y: 110.5}
+        - {x: -155.5, y: 92.5}
+        - {x: -154.5, y: 87.5}
+        - {x: -135.5, y: 87.5}
+        - {x: -135.5, y: 110.5}
+      - - {x: 125.5, y: 185.5}
+        - {x: 124.5, y: 184.5}
+        - {x: 121.5, y: 163.5}
+        - {x: 121.5, y: 152.5}
+        - {x: 118.5, y: 151.5}
+        - {x: 120.5, y: 153.5}
+        - {x: 121.5, y: 161.5}
+        - {x: 116.5, y: 169.5}
+        - {x: 103.5, y: 156.5}
+        - {x: 98.5, y: 116.5}
+        - {x: 98.5, y: 98.5}
+        - {x: 106.5, y: 93.5}
+        - {x: 150.5, y: 93.5}
+        - {x: 150.5, y: 125.5}
+        - {x: 128.5, y: 185.5}
+      - - {x: 63.5, y: 147.5}
+        - {x: 61.5, y: 145.5}
+        - {x: 54.5, y: 121.5}
+        - {x: 51.5, y: 106.5}
+        - {x: 51.5, y: 95.5}
+        - {x: 87.5, y: 95.5}
+        - {x: 87.5, y: 108.5}
+        - {x: 83.5, y: 147.5}
+      - - {x: 171.5, y: 147.5}
+        - {x: 169.5, y: 145.5}
+        - {x: 162.5, y: 121.5}
+        - {x: 159.5, y: 106.5}
+        - {x: 159.5, y: 95.5}
+        - {x: 195.5, y: 95.5}
+        - {x: 195.5, y: 108.5}
+        - {x: 191.5, y: 147.5}
+      - - {x: 20.5, y: 121.5}
+        - {x: 17.5, y: 111.5}
+        - {x: 17.5, y: 97.5}
+        - {x: 45.5, y: 97.5}
+        - {x: 45.5, y: 109.5}
+        - {x: 41.5, y: 121.5}
+      - - {x: 208.5, y: 121.5}
+        - {x: 205.5, y: 111.5}
+        - {x: 205.5, y: 97.5}
+        - {x: 233.5, y: 97.5}
+        - {x: 233.5, y: 109.5}
+        - {x: 229.5, y: 121.5}
+      - - {x: -151.5, y: 126.5}
+        - {x: -153.5, y: 128.5}
+        - {x: -174.5, y: 128.5}
+        - {x: -180.5, y: 123.5}
+        - {x: -180.5, y: 113.5}
+        - {x: -177.5, y: 107.5}
+        - {x: -173.5, y: 106.5}
+        - {x: -164.5, y: 106.5}
+        - {x: -153.5, y: 116.5}
+        - {x: -151.5, y: 119.5}
+      - - {x: -214.5, y: 130.5}
+        - {x: -226.5, y: 130.5}
+        - {x: -231.5, y: 128.5}
+        - {x: -235.5, y: 116.5}
+        - {x: -235.5, y: 110.5}
+        - {x: -233.5, y: 109.5}
+        - {x: -229.5, y: 108.5}
+        - {x: -224.5, y: 108.5}
+        - {x: -220.5, y: 109.5}
+        - {x: -213.5, y: 123.5}
+        - {x: -213.5, y: 128.5}
+      - - {x: -221.5, y: 117.5}
+        - {x: -223.5, y: 113.5}
+        - {x: -223.5, y: 110.5}
+        - {x: -220.5, y: 109.5}
+        - {x: -212.5, y: 109.5}
+        - {x: -211.5, y: 111.5}
+        - {x: -211.5, y: 115.5}
+        - {x: -215.5, y: 117.5}
+      - - {x: -202.5, y: 132.5}
+        - {x: -206.5, y: 129.5}
+        - {x: -206.5, y: 109.5}
+        - {x: -193.5, y: 109.5}
+        - {x: -191.5, y: 114.5}
+        - {x: -191.5, y: 125.5}
+        - {x: -196.5, y: 132.5}
+      - - {x: -176.5, y: 158.5}
+        - {x: -186.5, y: 158.5}
+        - {x: -190.5, y: 157.5}
+        - {x: -195.5, y: 150.5}
+        - {x: -194.5, y: 146.5}
+        - {x: -190.5, y: 136.5}
+        - {x: -171.5, y: 136.5}
+        - {x: -166.5, y: 137.5}
+        - {x: -166.5, y: 153.5}
+        - {x: -169.5, y: 155.5}
+      - - {x: 119.5, y: 168.5}
+        - {x: 121.5, y: 166.5}
+        - {x: 124.5, y: 167.5}
+        - {x: 124.5, y: 173.5}
+        - {x: 122.5, y: 175.5}
+        - {x: 119.5, y: 174.5}
+      - - {x: -32.5, y: 181.5}
+        - {x: -89.5, y: 181.5}
+        - {x: -90.5, y: 179.5}
+        - {x: -90.5, y: 168.5}
+        - {x: -32.5, y: 168.5}
+    - name: player_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 646
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 645
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 645
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 645
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 645
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 645
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 645
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 651
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 587
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 17.5}
+        - {x: -13.5, y: 17.5}
+        - {x: -16.5, y: 15.5}
+        - {x: -16.5, y: -3.5}
+        - {x: -13.5, y: -17.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 16.5, y: -15.5}
+        - {x: 16.5, y: 5.5}
+        - {x: 12.5, y: 15.5}
+    - name: player_20
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 587
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 17.5}
+        - {x: -17, y: 15.5}
+        - {x: -17, y: 3.5}
+        - {x: -14, y: -17.5}
+        - {x: 17, y: -17.5}
+        - {x: 17, y: 17.5}
+    - name: player_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 587
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 17.5}
+        - {x: -14.5, y: 17.5}
+        - {x: -17.5, y: 13.5}
+        - {x: -17.5, y: 3.5}
+        - {x: -14.5, y: -17.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 17.5, y: -14.5}
+        - {x: 17.5, y: 3.5}
+        - {x: 11.5, y: 15.5}
+    - name: player_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 587
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 17.5}
+        - {x: -18, y: 3.5}
+        - {x: -15, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 18, y: -16.5}
+        - {x: 18, y: 17.5}
+    - name: player_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 587
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 17.5}
+        - {x: -18.5, y: 1.5}
+        - {x: -15.5, y: -17.5}
+        - {x: 14.5, y: -17.5}
+        - {x: 18.5, y: -10.5}
+        - {x: 18.5, y: 17.5}
+    - name: player_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 597
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 597
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 597
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 597
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 597
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 597
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_33
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_34
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_35
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_36
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_37
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_38
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_39
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 535
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_40
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 436
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 436
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 436
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 436
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 436
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 436
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -17, y: 18}
+        - {x: -17, y: -24}
+        - {x: 17, y: -24}
+        - {x: 17, y: 14}
+        - {x: 13, y: 24}
+    - name: player_46
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 436
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 44}
+        - {x: -3, y: 24}
+        - {x: -3, y: 13}
+        - {x: -6, y: 12}
+        - {x: -4, y: 14}
+        - {x: -3, y: 22}
+        - {x: -7, y: 31}
+        - {x: -21, y: 17}
+        - {x: -24, y: -9}
+        - {x: -24, y: -44}
+        - {x: 24, y: -44}
+        - {x: 24, y: -3}
+        - {x: 11, y: 44}
+      - - {x: -5, y: 29}
+        - {x: -3, y: 27}
+        - {x: 0, y: 28}
+        - {x: 0, y: 34}
+        - {x: -2, y: 36}
+        - {x: -5, y: 35}
+    - name: player_47
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 436
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 24}
+        - {x: -17, y: 18}
+        - {x: -17, y: -24}
+        - {x: 17, y: -24}
+        - {x: 17, y: 14}
+        - {x: 13, y: 24}
+    - name: player_48
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 436
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 370
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_50
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 391
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 370
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_52
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 391
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_53
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 370
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 390
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 370
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 390
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 390
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_59
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_61
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_62
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_64
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_65
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_66
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 18.5}
+        - {x: -19, y: 6.5}
+        - {x: -19, y: -12.5}
+        - {x: -12, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 7.5}
+        - {x: 6, y: 18.5}
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: 7.5}
+        - {x: -11, y: 8.5}
+        - {x: -8, y: 11.5}
+        - {x: -8, y: 18.5}
+      - - {x: 8, y: 18.5}
+        - {x: 8, y: 11.5}
+        - {x: 12, y: 7.5}
+        - {x: 19, y: 7.5}
+        - {x: 19, y: 18.5}
+    - name: player_67
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_70
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 332
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 304
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 18.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: -18.5}
+        - {x: 17, y: -18.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 9.5}
+        - {x: 7, y: 18.5}
+      - - {x: -8, y: 18.5}
+        - {x: -19, y: 18.5}
+        - {x: -19, y: 6.5}
+        - {x: -15, y: 6.5}
+        - {x: -12, y: 7.5}
+        - {x: -9, y: 10.5}
+        - {x: -8, y: 13.5}
+      - - {x: 8, y: 18.5}
+        - {x: 7, y: 12.5}
+        - {x: 13, y: 6.5}
+        - {x: 19, y: 6.5}
+        - {x: 19, y: 18.5}
+    - name: player_73
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_75
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 304
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 18.5}
+        - {x: -19, y: 13.5}
+        - {x: -19, y: -18.5}
+        - {x: 15, y: -18.5}
+        - {x: 19, y: -15.5}
+        - {x: 19, y: 9.5}
+        - {x: 12, y: 18.5}
+      - - {x: -19, y: 18.5}
+        - {x: -19, y: 7.5}
+        - {x: -15, y: 6.5}
+        - {x: -13, y: 6.5}
+        - {x: -7, y: 12.5}
+        - {x: -7, y: 18.5}
+      - - {x: 8, y: 18.5}
+        - {x: 9, y: 10.5}
+        - {x: 12, y: 7.5}
+        - {x: 19, y: 7.5}
+        - {x: 19, y: 18.5}
+    - name: player_76
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 331
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_77
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 320
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_78
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 317
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_79
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 320
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 320
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_81
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 320
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 320
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 320
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_85
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 275
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_86
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 247
+        width: 4
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 242
+        width: 4
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_88
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 243
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 242
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_91
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 247
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_95
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 252
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_96
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 267
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_97
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_98
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 267
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_99
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_100
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 267
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_101
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 267
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_102
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 252
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_103
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 252
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_104
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 267
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_105
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_106
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_107
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_108
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 255
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_109
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_110
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_111
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 258
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_112
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 258
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_113
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 258
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 180
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_115
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 180
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -3.5}
+        - {x: -13, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 8.5}
+        - {x: 15, y: 15.5}
+    - name: player_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 180
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -3.5}
+        - {x: -13, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 8.5}
+        - {x: 15, y: 15.5}
+    - name: player_117
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 180
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 180
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -3.5}
+        - {x: -13, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 8.5}
+        - {x: 15, y: 15.5}
+    - name: player_119
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 170
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_120
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 180
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -3.5}
+        - {x: -13, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 8.5}
+        - {x: 15, y: 15.5}
+    - name: player_121
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 165
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 27.5}
+        - {x: -16.5, y: -27.5}
+        - {x: -3.5, y: -27.5}
+        - {x: 16.5, y: -12.5}
+        - {x: 16.5, y: 16.5}
+        - {x: -5.5, y: 27.5}
+    - name: player_122
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 180
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -3.5}
+        - {x: -13, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 8.5}
+        - {x: 15, y: 15.5}
+    - name: player_123
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 172
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_124
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 191
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_125
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 180
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -16, y: 15.5}
+        - {x: -16, y: -3.5}
+        - {x: -13, y: -17.5}
+        - {x: 14, y: -17.5}
+        - {x: 16, y: -13.5}
+        - {x: 16, y: 8.5}
+        - {x: 15, y: 15.5}
+    - name: player_126
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 191
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_127
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 196
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_128
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 200
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_129
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 180
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 14.5}
+        - {x: -12.5, y: 17.5}
+        - {x: -33.5, y: 17.5}
+        - {x: -36.5, y: 13.5}
+        - {x: -36.5, y: 3.5}
+        - {x: -33.5, y: -17.5}
+        - {x: -5.5, y: -17.5}
+        - {x: -2.5, y: -5.5}
+        - {x: -2.5, y: 0.5}
+      - - {x: 36.5, y: -0.5}
+        - {x: 34.5, y: 0.5}
+        - {x: 18.5, y: 0.5}
+        - {x: 18.5, y: -3.5}
+        - {x: 21.5, y: -10.5}
+        - {x: 24.5, y: -10.5}
+        - {x: 26.5, y: -8.5}
+        - {x: 28.5, y: -10.5}
+        - {x: 36.5, y: -10.5}
+      - - {x: 11.5, y: -6.5}
+        - {x: 12.5, y: -9.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 17.5, y: -7.5}
+        - {x: 16.5, y: -4.5}
+        - {x: 13.5, y: -4.5}
+      - - {x: 1.5, y: -0.5}
+        - {x: 1.5, y: -6.5}
+        - {x: 3.5, y: -8.5}
+        - {x: 10.5, y: -8.5}
+        - {x: 12.5, y: -4.5}
+        - {x: 12.5, y: -0.5}
+      - - {x: 13.5, y: -2.5}
+        - {x: 15.5, y: -4.5}
+        - {x: 18.5, y: -3.5}
+        - {x: 18.5, y: -0.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 13.5, y: 0.5}
+    - name: player_130
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 190
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_131
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 189
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_132
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 185
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_133
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 193
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_134
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 188
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_135
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 188
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_136
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_137
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_138
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_139
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 185
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_140
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_141
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_142
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 188
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_143
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_144
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 188
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_145
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 182
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_146
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 183
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_147
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 183
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_148
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 185
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_149
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_150
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_151
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_152
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_153
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_154
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 106
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 18}
+        - {x: -16, y: 14}
+        - {x: -16, y: -14}
+        - {x: -15, y: -18}
+        - {x: 16, y: -18}
+        - {x: 16, y: 9}
+        - {x: 9, y: 18}
+    - name: player_155
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 100
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 16.5}
+        - {x: 18, y: 23.5}
+    - name: player_156
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 100
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 23.5}
+        - {x: -23, y: 20.5}
+        - {x: -23, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 23, y: -14.5}
+        - {x: 23, y: 16.5}
+        - {x: 18, y: 23.5}
+    - name: player_157
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 107
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 17.5}
+        - {x: -16, y: 16.5}
+        - {x: -16, y: -16.5}
+        - {x: -14, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 16, y: 15.5}
+        - {x: 13, y: 17.5}
+    - name: player_158
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_159
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_160
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_161
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_162
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 107
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_163
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 112
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_164
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_165
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 112
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_166
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_167
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_168
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 109
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_169
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_170
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_171
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 112
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_172
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_173
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 112
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_175
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_176
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_177
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_178
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 67
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_179
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 35
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_180
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 35
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 28.5}
+        - {x: -29, y: 28.5}
+        - {x: -29, y: -28.5}
+        - {x: 29, y: -28.5}
+        - {x: 29, y: 8.5}
+        - {x: 21, y: 27.5}
+    - name: player_181
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_183
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_184
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 52
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_185
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 52
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_186
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 37
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_187
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_188
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_190
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_191
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_192
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_193
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_194
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_195
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_196
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_197
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_198
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_199
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_200
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_201
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_202
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_203
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 10
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_204
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_205
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_206
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_207
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_208
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_209
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_210
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_211
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_212
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_213
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_214
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_215
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 10
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_216
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_217
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_218
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_219
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_220
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_221
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_222
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_223
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_224
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_225
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_226
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_227
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 10
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_228
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_229
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_230
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_231
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_232
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 10
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_233
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_234
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_235
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_236
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_237
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_238
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_239
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_240
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_241
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_242
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_243
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_244
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_245
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_246
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 13
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_247
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 13
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_248
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_249
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_250
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_251
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_252
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_253
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: player_254
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 303
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 16.5}
+        - {x: -7.5, y: 16.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -22.5, y: -2.5}
+        - {x: -22.5, y: -18.5}
+        - {x: -15.5, y: -23.5}
+        - {x: 14.5, y: -23.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: -3.5}
+        - {x: 17.5, y: 2.5}
+      - - {x: -22.5, y: 23.5}
+        - {x: -28.5, y: 19.5}
+        - {x: -28.5, y: 7.5}
+        - {x: -25.5, y: 3.5}
+        - {x: -13.5, y: 3.5}
+        - {x: -8.5, y: 5.5}
+        - {x: -8.5, y: 18.5}
+        - {x: -11.5, y: 23.5}
+      - - {x: 23.5, y: 23.5}
+        - {x: 11.5, y: 23.5}
+        - {x: 6.5, y: 22.5}
+        - {x: 6.5, y: 5.5}
+        - {x: 11.5, y: 3.5}
+        - {x: 22.5, y: 3.5}
+        - {x: 25.5, y: 7.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 26.5, y: 18.5}
+    - name: player_255
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: -2.5}
+        - {x: -21.5, y: -19.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 13.5, y: -23.5}
+        - {x: 20.5, y: -21.5}
+        - {x: 20.5, y: 0.5}
+        - {x: 19.5, y: 3.5}
+        - {x: 1.5, y: 16.5}
+        - {x: -6.5, y: 16.5}
+        - {x: -20.5, y: 3.5}
+      - - {x: -23.5, y: 23.5}
+        - {x: -28.5, y: 18.5}
+        - {x: -28.5, y: 7.5}
+        - {x: -24.5, y: 3.5}
+        - {x: -14.5, y: 3.5}
+        - {x: -8.5, y: 5.5}
+        - {x: -8.5, y: 18.5}
+        - {x: -12.5, y: 23.5}
+      - - {x: 11.5, y: 23.5}
+        - {x: 6.5, y: 17.5}
+        - {x: 6.5, y: 8.5}
+        - {x: 11.5, y: 3.5}
+        - {x: 24.5, y: 3.5}
+        - {x: 26.5, y: 8.5}
+        - {x: 26.5, y: 20.5}
+        - {x: 22.5, y: 23.5}
+    - name: player_256
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 303
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 16.5}
+        - {x: -6.5, y: 16.5}
+        - {x: -20.5, y: 3.5}
+        - {x: -21.5, y: 1.5}
+        - {x: -21.5, y: -22.5}
+        - {x: -18.5, y: -23.5}
+        - {x: 19.5, y: -23.5}
+        - {x: 20.5, y: -22.5}
+        - {x: 20.5, y: -3.5}
+        - {x: 19.5, y: 3.5}
+      - - {x: -13.5, y: 22.5}
+        - {x: -25.5, y: 22.5}
+        - {x: -28.5, y: 16.5}
+        - {x: -28.5, y: 6.5}
+        - {x: -25.5, y: 2.5}
+        - {x: -13.5, y: 2.5}
+        - {x: -8.5, y: 7.5}
+        - {x: -8.5, y: 18.5}
+      - - {x: 10.5, y: 22.5}
+        - {x: 7.5, y: 18.5}
+        - {x: 6.5, y: 10.5}
+        - {x: 6.5, y: 7.5}
+        - {x: 9.5, y: 2.5}
+        - {x: 21.5, y: 2.5}
+        - {x: 26.5, y: 3.5}
+        - {x: 26.5, y: 20.5}
+        - {x: 21.5, y: 22.5}
+    - name: player_257
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 303
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 16.5}
+        - {x: -7.5, y: 16.5}
+        - {x: -21.5, y: 2.5}
+        - {x: -22.5, y: -2.5}
+        - {x: -22.5, y: -21.5}
+        - {x: -21.5, y: -23.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: -3.5}
+        - {x: 18.5, y: 2.5}
+      - - {x: -23.5, y: 22.5}
+        - {x: -28.5, y: 17.5}
+        - {x: -28.5, y: 7.5}
+        - {x: -25.5, y: 2.5}
+        - {x: -11.5, y: 2.5}
+        - {x: -8.5, y: 8.5}
+        - {x: -8.5, y: 19.5}
+        - {x: -12.5, y: 22.5}
+      - - {x: 8.5, y: 22.5}
+        - {x: 6.5, y: 17.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 10.5, y: 3.5}
+        - {x: 18.5, y: 2.5}
+        - {x: 21.5, y: 2.5}
+        - {x: 26.5, y: 5.5}
+        - {x: 26.5, y: 17.5}
+        - {x: 25.5, y: 22.5}
+    - name: player_fade_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 3.5}
+        - {x: 11.5, y: 11.5}
+        - {x: 7.5, y: 20.5}
+        - {x: -2.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -17.5, y: -18.5}
+        - {x: -5.5, y: -22.5}
+        - {x: 10.5, y: -22.5}
+        - {x: 14.5, y: -14.5}
+        - {x: 14.5, y: 1.5}
+    - name: player_fade_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 22.5}
+        - {x: -16.5, y: 17.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -12.5, y: -21.5}
+        - {x: 13.5, y: -21.5}
+        - {x: 16.5, y: -14.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 9.5, y: 22.5}
+    - name: player_fade_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 20.5}
+        - {x: 6.5, y: 21.5}
+        - {x: -9.5, y: 21.5}
+        - {x: -17.5, y: 17.5}
+        - {x: -17.5, y: -8.5}
+        - {x: -15.5, y: -16.5}
+        - {x: -1.5, y: -22.5}
+        - {x: 7.5, y: -22.5}
+        - {x: 15.5, y: -15.5}
+        - {x: 15.5, y: 0.5}
+    - name: player_fade_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 22.5}
+        - {x: -12.5, y: 20.5}
+        - {x: -16.5, y: 14.5}
+        - {x: -13.5, y: -17.5}
+        - {x: -3.5, y: -21.5}
+        - {x: 14.5, y: -21.5}
+        - {x: 15.5, y: -20.5}
+        - {x: 15.5, y: 20.5}
+        - {x: 10.5, y: 22.5}
+    - name: player_fade_5
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: -14.5}
+        - {x: -0.5, y: -16.5}
+        - {x: 2.5, y: -15.5}
+        - {x: 2.5, y: 20.5}
+        - {x: 0.5, y: 22.5}
+        - {x: -2.5, y: 21.5}
+      - - {x: 5.5, y: -14.5}
+        - {x: 7.5, y: -16.5}
+        - {x: 10.5, y: -15.5}
+        - {x: 10.5, y: 15.5}
+        - {x: 8.5, y: 17.5}
+        - {x: 5.5, y: 16.5}
+      - - {x: -9.5, y: 19.5}
+        - {x: -13.5, y: 16.5}
+        - {x: -13.5, y: 13.5}
+        - {x: -12.5, y: 11.5}
+        - {x: -7.5, y: 11.5}
+        - {x: -5.5, y: 13.5}
+        - {x: -5.5, y: 17.5}
+        - {x: -6.5, y: 19.5}
+    - name: player_fade_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -4.5}
+        - {x: -14.5, y: -20.5}
+        - {x: -12.5, y: -22.5}
+        - {x: 13.5, y: -22.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 17.5, y: 0.5}
+        - {x: 14.5, y: 17.5}
+        - {x: 9.5, y: 21.5}
+        - {x: -11.5, y: 21.5}
+        - {x: -17.5, y: 16.5}
+    - name: empty_1
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 319
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: empty_2
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 319
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

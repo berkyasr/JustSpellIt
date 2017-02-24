@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{84A8849F-B7C0-51C3-4E39-891975D4B1A4}") = "JustSpellIt", "Assembly-CSharp.csproj", "{BBE196BE-0E2D-EBD4-1E43-35D7DC7871CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE196BE-0E2D-EBD4-1E43-35D7DC7871CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE196BE-0E2D-EBD4-1E43-35D7DC7871CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE196BE-0E2D-EBD4-1E43-35D7DC7871CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE196BE-0E2D-EBD4-1E43-35D7DC7871CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
